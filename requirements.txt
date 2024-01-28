@@ -1,0 +1,58 @@
+Brotli @ file:///tmp/abs_ecyw11_7ze/croots/recipe/brotli-split_1659616059936/work
+certifi @ file:///croot/certifi_1700501669400/work/certifi
+cffi @ file:///croot/cffi_1700254295673/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cryptography @ file:///croot/cryptography_1694444244250/work
+dgl==1.1.2+cu117
+filelock @ file:///croot/filelock_1700591183607/work
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455532332/work
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata @ file:///croot/importlib-metadata_1678997070253/work
+isodate==0.6.1
+Jinja2 @ file:///croot/jinja2_1666908132255/work
+joblib @ file:///croot/joblib_1685113087166/work
+littleutils==0.2.2
+llvmlite @ file:///croot/llvmlite_1697031035361/work
+logger==1.4
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1690561992265/work
+numba @ file:///croot/numba_1697057269084/work
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+ogb==1.3.6
+outdated==0.2.2
+packaging @ file:///croot/packaging_1693575174725/work
+pandas==2.0.3
+Pillow @ file:///croot/pillow_1696580024257/work
+platformdirs @ file:///croot/platformdirs_1692205439124/work
+pooch @ file:///croot/pooch_1695850093751/work
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil==2.8.2
+pytz==2023.3.post1
+PyYAML==6.0.1
+rdflib==7.0.0
+requests @ file:///croot/requests_1690400202158/work
+scikit-learn @ file:///croot/scikit-learn_1684954695550/work
+scipy==1.10.1
+six==1.16.0
+sympy @ file:///croot/sympy_1668202399572/work
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+torch==2.0.1
+torch-sparse==0.6.18
+torch_geometric @ file:///usr/share/miniconda/envs/test/conda-bld/pyg_1697446335865/work
+torchaudio==2.0.2
+torchmetrics==0.11.4
+torchvision==0.15.2
+tqdm @ file:///croot/tqdm_1679561862951/work
+triton==2.0.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+tzdata==2023.3
+urllib3 @ file:///croot/urllib3_1698257533958/work
+zipp @ file:///croot/zipp_1672387121353/work
