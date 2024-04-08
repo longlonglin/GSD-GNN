@@ -1,5 +1,9 @@
-# GSD-GNN
-Our code is divided into a C++ part and a python part
+# Code for GSD-GNN Algorithm
+
+This repository contains a reference implementation of the algorithms for the paper:
+“GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks”.
+
+Our code is divided into a C++ part and a Python part
 # C++ dependence
 The C++ part dependence versions that the code is tested:
 
@@ -17,7 +21,7 @@ Create an interface shared by C++ code and Python code
 cd sampler
 ./compile.sh
 ```
-### Start with conda for python part
+### Start with conda for the Python part
 ```bash
 conda create -n your_env_name python=3.8.16
 ```
